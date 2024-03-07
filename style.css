@@ -1,0 +1,18 @@
+body {
+  font-family: monospace;
+  display: flex;
+  flex-direction: column;
+  height: 95vh;
+  margin: 1rem;
+  overflow: hidden;
+}
+
+#messageInput {
+  margin: 0.5rem 0;
+}
+
+#chatHistory {
+  flex: 1;
+  overflow: auto;
+  border: solid 3px salmon;
+}
