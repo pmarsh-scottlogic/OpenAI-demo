@@ -14,4 +14,4 @@ const OPEN_AI_API_KEY = "my-open-ai-api-key-pasted-here";
 
 run `npm run build` in a console of choice. Then open index.html in the browser of your choice. After each code change you will need to run `npm run build` again, and refresh the browser to see changes.
 
-**NOTE THIS IS BAD PRACTISE. DO NOT COPY THIS FOR A REAL PROJECT. THE API KEY SHOULD BE KEPT SECURE IN A `.ENV` FILE INSTEAD.**
+**NOTE THIS IS BAD PRACTISE. DO NOT COPY THIS FOR A REAL PROJECT. THE API KEY SHOULD BE KEPT SECURE IN A `.env` FILE INSTEAD.**
